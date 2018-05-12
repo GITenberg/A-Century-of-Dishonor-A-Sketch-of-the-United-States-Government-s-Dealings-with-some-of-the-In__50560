@@ -1,4 +1,8 @@
 _repo: A-Century-of-Dishonor-A-Sketch-of-the-United-States-Government-s-Dealings-with-some-of-the-In__50560
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50560-h/images/cover.jpg
 creator:
   author:
     agent_name: Jackson, Helen Hunt
@@ -13,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1030
     wikipedia: http://en.wikipedia.org/wiki/Helen_Hunt_Jackson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50560#A-Century-of-Dishonor-A-Sketch-of-the-United-States-Government-s-Dealings-with-some-of-the-In_
 gutenberg_issued: '2015-11-27'
 gutenberg_type: Text
 identifiers:
