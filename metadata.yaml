@@ -27,6 +27,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'A Century of Dishonor
 
   A Sketch of the United States Government''s Dealings with
